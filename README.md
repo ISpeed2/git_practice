@@ -1,7 +1,7 @@
 "Hello, Git!" 
 
  ```markdown
- ![alt text](git.png)
+ ![Форчан](images/images.png)
  ```
 
 
