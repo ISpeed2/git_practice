@@ -1,7 +1,10 @@
 
+
+
+
 ```markdown
 "Hello, Git!"
-Приготовтесь увидеть мем
 
- ```markdown
- ![Форчан](images/images.png)
+![Форчан](images/images.png)
+
+Приготовьтесь увидеть мем
